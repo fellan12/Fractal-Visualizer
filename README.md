@@ -61,4 +61,4 @@ The project structure:
 - NPM or Yarn package manager
 
 ## Contributing
-Feel free to submit issues and enhancement requests!# Fractal-Visualizer
+Feel free to submit issues and enhancement requests!

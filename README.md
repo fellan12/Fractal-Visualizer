@@ -3,6 +3,8 @@
 
 An interactive web application built with React and p5.js that allows users to explore and visualize various types of mathematical fractals in real-time.
 
+![Fractal Visualizer Demo](./example.png)
+
 ## Features
 
 This application includes visualizations for seven different types of fractals:
